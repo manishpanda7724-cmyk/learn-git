@@ -2,7 +2,7 @@
 
 connect to me on linkedin
 
-'''javascript                       
+```javascript                      
 console.log('hello world');
 
-'''
+```
